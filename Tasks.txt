@@ -1,0 +1,16 @@
+Task 1: Login
+Task 2: View tutorials
+Task 3: Turn off notifications
+Task 4: View your character info
+Task 5: Find your ID
+Task 6: Add a friend
+Task 7: View achievements
+Task 8: Collect rewards
+Task 9: Personalize your game
+For Host:
+Task 11: View "bag" section and apply room key
+Task 12: Invite friends
+For Players:
+Task 11: Join invitation
+
+Proceed with the game and usability questionaire...

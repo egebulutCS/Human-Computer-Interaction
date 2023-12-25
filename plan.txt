@@ -1,0 +1,53 @@
+Settingleri ve groupları olabildigince tarif et ve neden bu
+proje için utgun oladuklarından uzun uzun bahset.
+Aynısını sorular için yap.
+
+Combination: usability testing tasks carried out in field testing.
+
+Usability Testing:
+
+2 test groups - old non gamers and young gamers
+controlled setting - home and pub
+observation on users' performance
+record time of completion of a task
+errors that accour during the completion of a task
+number of navigations to online help or manuals
+number of users making a particular error
+number of users completing a task successfully
+5-6 participants per group?
+
+pros:
+-	uninterrupted - can assess performance, identify
+	errors and help explain why users did what they did.
+-	can use in conjunction with satisfaction questionnaires
+	and interviews to elicit user opinions.
+	
+cons:
+-	controlled settings are artificial and lack context.
+	Users were asked to play the game.
+-	requires skill to determine typical users and typical tasks.
+-	time to set up tests, recruit, participants and run tests.
+-	need access to resources/equipment.
+
+Field Studies:
+
+natural settings
+
+do the people look like they are enjoying the interaction?
+are there any distruption to the tasks?
+satisfaction/enjoyment of overall experience?
+follow up on interesting observations - ask why something happened.
+clarification where an event or activity was unclear.
+ask for examples to back up general points.
+give the participant a chance to say anything else they want.
+
+pros:
+-	helps understand what users do naturally and how technology
+	impacts them in context.
+-	evaluating in real usage is the only way of finding out
+	whether a design has been successful in its aims
+
+cons:
+-	access to settings.
+-	lack of control, noise, distractions
+-	hard to capture detail of usability

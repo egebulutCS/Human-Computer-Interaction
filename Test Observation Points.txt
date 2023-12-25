@@ -1,0 +1,13 @@
+Test Observation Points:
+- Time to complete a task
+- Number and type of errors or mistakes per task
+- Number of navigations to online help or manuals
+- Number of users completing tasks successfully
+
+do the people look like they are enjoying the interaction?
+are there any distruption to the tasks?
+satisfaction/enjoyment of overall experience?
+follow up on interesting observations - ask why something happened.
+clarification where an event or activity was unclear.
+ask for examples to back up general points.
+give the participant a chance to say anything else they want.
